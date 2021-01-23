@@ -1,0 +1,35 @@
+site_name: HostHome | Docs
+theme:
+  name: material  
+
+  static_templates:
+    - 404.html
+
+  include_search_page: false
+  search_index_only: true
+
+  language: es
+  
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+  favicon: assets/favicon.png
+
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - search.share
+
+  icon:
+    repo: fontawesome/brands/github
+
+repo_url: https://github.com/HostHome
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/HostHome-of
+
+copyright: Copyright &copy; 2020 | HostHome
