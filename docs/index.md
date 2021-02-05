@@ -11,19 +11,19 @@ HostHome es una arganizacion para poder hacer hosting gratis para todo el mundo 
     <img src="https://raw.githubusercontent.com/HostHome-of/website/main/src/static/images/banner.png" />
 </p>
 
-#### ¿Què nos diferencian? 
-HostHome tiene **muchas** cosas que nos diferencian de los otros hostings.
+## Nuestros CLIs
 
-* Una de las caracteristicas es que puedes editar un archivo desde el editor de HostHome
-* Otra caracteristica es la gran eficiencia y rapidez de su procesamiento y velocidad de arranque de un programa.
-* HostHome te permite hacer archivos de configuracion como un **.env** desde su dashboard.
-    * Ejemplo :: .env
+Tenemos CLIs para pip y node.
+Los dos CLIs se han documentado en los [documentos](/cli)
 
-```env
+## Metodos de pago
 
-LLAVE_SUPER_SERCRETA = 123CUATRO
-LLAVE_DE_API = AOIWJDOIJ232O3IJAWDJ
+Adivina que... HostHome **no** requiere pagar para hacer hostings.
 
-```
+## Redes sociales y contribuicion
 
-* HostHome actualizara el projecto siempre que tu quieras. Tu solo tienes que darle a un botoncito. 
+* 🏢 Nuestro [github](https://github.com/HostHome-of/)
+* 💪 Ayudanos a mejorar
+    * 🐛 Encontrar [bugs](https://github.com/HostHome-of/Documentacion/issues/new)
+    * 🆙 Mejorar [docs](https://github.com/HostHome-of/Documentacion/compare?expand=1)
+* 👑 Creador [maubg-debug](https://github.com/maubg-debug)
