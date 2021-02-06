@@ -71,7 +71,7 @@ $ pipwin install HostHome-cli
 
 Si sigues teniendo error contacta con algun trabajador en [HostHome](https://github.com/HostHome-of)
 
-![img]()
+![img](https://raw.githubusercontent.com/HostHome-of/website/main/src/static/images/cli-pip.png)
 
 <!-- # Explicacion en video
 
