@@ -7,10 +7,6 @@ Hosting gratis para todo el mundo.
 #### ¿Què es HostHome?
 HostHome es una arganizacion para poder hacer hosting gratis para todo el mundo con caracteristicas que otras companias de hosting no tiene.
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HostHome-of/website/main/src/static/images/banner.png" />
-</p>
-
 ## Nuestros CLIs
 
 Tenemos CLIs para pip y node.
@@ -27,3 +23,21 @@ Adivina que... HostHome **no** requiere pagar para hacer hostings.
     * 🐛 Encontrar [bugs](https://github.com/HostHome-of/Documentacion/issues/new)
     * 🆙 Mejorar [docs](https://github.com/HostHome-of/Documentacion/compare?expand=1)
 * 👑 Creador [maubg-debug](https://github.com/maubg-debug)
+
+## Index
+
+* [Como crearse una cuenta](/cuentas/)
+* [Los CLIs](/cli/)
+    * [Node](/cli/node/)
+    * [Python](/cli/python/)
+* [Lenguages](/len/)
+    * [C#](/len/cs)
+    * [Python](/len/python)
+    * [Nodejs](/len/nodejs)
+    * [Scala](/len/scala)
+    * [Clojure](/len/clojure)
+
+
+<p align="center">
+    <img style="border-radius: 10px; width: 400px;" src="https://raw.githubusercontent.com/HostHome-of/website/main/src/static/images/banner.png" />
+</p>
