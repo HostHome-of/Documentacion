@@ -1,3 +1,12 @@
+<style>
+.md-footer-copyright #text {
+    display: none
+}
+
+.md-footer-copyright .md-footer-copyright__highlight #text {
+    display: block
+}
+</style>
 # Nuestros CLIs
 
 ## Elecciones
@@ -18,5 +27,5 @@
     * Todos los CLIs estan hechos para tener una instalacion facil y sencilla.
     * Para saver como instalarlos mira las paginas de los CLIs.
         * [Pypi](https://pypi.org/project/HostHome-cli/) - `pip install HostHome-cli`
-        * [Node](https://www.npmjs.com/package/@maubg/hosthome-cli) - `npm i -g @maubg/hosthome-cli`
-        * [Yarn](https://yarnpkg.com/package/@maubg/hosthome-cli) - `yarn global add @maubg/hosthome-cli`
+        * [Node](https://www.npmjs.com/package/@hosthome/hosthome-cli) - `npm i -g @hosthome/hosthome-cli`
+        * [Yarn](https://yarnpkg.com/package/@hosthome/hosthome-cli) - `yarn global add @hosthome/hosthome-cli`
