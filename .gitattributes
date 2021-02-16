@@ -1,1 +1,2 @@
-*.yml linguist-language=Ruby
+# *.yml linguist-language=Ruby
+*.md linguist-detectable=true
