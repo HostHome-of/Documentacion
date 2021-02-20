@@ -39,7 +39,7 @@ HostHome es una arganizacion para poder hacer hosting gratis para todo el mundo 
 
 Lo que solemos hacer por aqui es mejorar nuestras habilidades y con eso poder mejorar esta empresa gracias a los usuarios que hacen lo siguiente dependiendo de donde venga el error ya que puede estar en nuestro documentos, la pagina web o incluso nuestros CLIs y siempre estaremos en agradecimiento con esos usuarios.
 
-   1. Lo reportan en nuetro [GitHub](https://github.com/HostHome-of)
+   1. Lo reportan en nuetro [GitHub](https://github.com/HostHome-oficial)
    2. Siempre instentan crear un nuevo issue o pueden hacer un pull request tambien en nuestro `GitHub`
 
 ## — Nuestros CLIs
@@ -78,12 +78,12 @@ Si quieres ver los lenguages oviamente enstan en el index, si quieres saver como
 
 ## — Redes sociales y contribuicion
 
-* 🏢 Nuestro [github](https://github.com/HostHome-of/)
+* 🏢 Nuestro [github](https://github.com/HostHome-oficial/)
 * 💪 Ayudanos a mejorar
-    * 🐛 Encontrar [bugs](https://github.com/HostHome-of/Documentacion/issues/new)
-    * 🆙 Mejorar [docs](https://github.com/HostHome-of/Documentacion/compare?expand=1)
+    * 🐛 Encontrar [bugs](https://github.com/HostHome-oficial/Documentacion/issues/new)
+    * 🆙 Mejorar [docs](https://github.com/HostHome-oficial/Documentacion/compare?expand=1)
 * 👑 Creador [maubg-debug](https://github.com/maubg-debug)
 
 ## — Licencia
 
-* HostHome esta bajo la licencia de [GNU](https://github.com/HostHome-of/website/blob/main/LICENSE.md)
+* HostHome esta bajo la licencia de [GNU](https://github.com/HostHome-oficial/website/blob/main/LICENSE.md)

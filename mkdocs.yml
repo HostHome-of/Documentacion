@@ -24,12 +24,12 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
-repo_url: https://github.com/HostHome-of
+repo_url: https://github.com/HostHome-oficial
 
 extra:
   generator: false
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/HostHome-of
+      link: https://github.com/HostHome-oficial
 
 copyright: Copyright &copy; 2020 | HostHome
