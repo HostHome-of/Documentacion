@@ -27,5 +27,5 @@
     * Todos los CLIs estan hechos para tener una instalacion facil y sencilla.
     * Para saver como instalarlos mira las paginas de los CLIs.
         * [Pypi](https://pypi.org/project/HostHome-cli/) - `pip install HostHome-cli`
-        * [Node](https://www.npmjs.com/package/@hosthome/hosthome-cli) - `npm i -g @hosthome/hosthome-cli`
-        * [Yarn](https://yarnpkg.com/package/@hosthome/hosthome-cli) - `yarn global add @hosthome/hosthome-cli`
+        * [Node](https://www.npmjs.com/package/@HostHome-oficial/hosthome-cli) - `npm i -g @HostHome-oficial/hosthome-cli`
+        * [Yarn](https://yarnpkg.com/package/@HostHome-oficial/hosthome-cli) - `yarn global add @HostHome-oficial/hosthome-cli`
